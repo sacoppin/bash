@@ -5,4 +5,4 @@
 date
 echo my username is $(whoami)
 
- echo we are located in $( pwd)
+ echo we are located in  $( pwd)
