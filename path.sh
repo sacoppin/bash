@@ -11,3 +11,14 @@ echo Ok what files do you have?
 echo Give me path to files please.
 
 
+file()
+{
+  if [ "$1" -gt "1" ]; then
+    i=`expr $1 - 1`
+    j=`factorial $i`
+    k=`expr $1 \* $j`
+    echo $k
+  else
+    echo 1
+  fi
+}
