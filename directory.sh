@@ -10,3 +10,10 @@ case $directory in
 2) echo "Your current directory, including symlinks, is: $(pwd -L)";;
 3) echo "You were previously in: $OLDPWD";;
 esac
+
+DIR="/tmp"
+if [[ -z "$(ls -A -- "$DIR")" ]] ; then
+    echo "$DIR is empty"
+else
+    echo "$DIR is not-empty"
+fi
