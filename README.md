@@ -22,7 +22,7 @@ Write a shell script to see the current date, time, username, and directory.
 
 Write a shell script checking all the [groups](https://www.cyberciti.biz/faq/linux-show-groups-for-user/) a user is part of and for each one display `<username> is part of the group <group>`.
 
-Are you my friend
+## Are you my friend
 Have you ever thought that you'd rather talk to your computer than to the people around you? Then you're in luck as today we will code ourselves a friend.
 
 The idea is to create a sort of bot which has the ability to interpret some user's input and reply to predefined sentences like: what's the time, tell me a joke or what's 4 + 5. Your script should also be both interactive and non-interactive, but what does it mean? Follow, this link to find out.
