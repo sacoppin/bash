@@ -42,3 +42,5 @@ Add the script to your $PATH to make it executable from everywhere on your syste
 It won't be JARVIS, but it'll be a friend you can count on... Jokes aside, shell scripting allows you to harness the power of the commands installed on your system in a recallable manner. Now that's power!
 
 NOTE: The goal is to try to make your friend as useful as possible, therefore don't hesitate to add new features that are not listed above.
+
+test 
